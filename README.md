@@ -29,3 +29,13 @@
 ## 3\ Focus ont he essence of a test when arranging
 
 ## 4\ Keep your number of assertions (expect) low
+
+## 5\ Only Test 'One Thing'
+
+### \*\ One fueature or behavior per test
+
+## 6\ Splitting Function For Easier Testing & Better Code
+
+# 🍎 Integration test:
+
+## We said an integration test if we combining multiple units or multiple functions
